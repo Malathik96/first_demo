@@ -12,6 +12,8 @@ public class array1 {
 		
 		System.out.println(a[0]);*/
 		
+		System.out.println("demo check");
+		
 		int a[]= {100,200,300,400};
 		
 		for(int i : a)
